@@ -129,4 +129,7 @@ Django_project/
 - AWS CloudWatch for monitoring the EC2 instance and application logs.
 
 ### Screenshots:
-![image](https://github.com/user-attachments/assets/f734480b-b422-4373-b21b-3ed600468230)
+<img width="1598" alt="weather_data" src="https://github.com/user-attachments/assets/a9e8a048-d7d4-489d-904e-aed29b09b4cc">
+<img width="1598" alt="weather_stats" src="https://github.com/user-attachments/assets/2f61aa55-f09f-4cd1-bb24-7d7f1a1a3fa1">
+
+
