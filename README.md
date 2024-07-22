@@ -26,6 +26,15 @@ pip3 install -r requirements.txt
 ```
 
 ### Database Setup:
+
+```shell
+brew install postgresql
+sudo -u postgres psql
+CREATE DATABASE mydatabase;
+CREATE USER dbuser WITH PASSWORD dbpassword ;
+GRANT ALL PRIVILEGES ON DATABASE mydatabase TO dbuser;
+```
+
 Update settings.py with your database credentials.
 ``` shell
 DATABASES = {
