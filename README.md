@@ -127,3 +127,6 @@ Django_project/
 - Configure a web server like Apache on the EC2 instance.
 - Test your deployment to ensure your Django application is accessible via the domain name.
 - AWS CloudWatch for monitoring the EC2 instance and application logs.
+
+### Screenshots:
+![image](https://github.com/user-attachments/assets/f734480b-b422-4373-b21b-3ed600468230)
